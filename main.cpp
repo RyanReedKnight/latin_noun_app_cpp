@@ -18,7 +18,7 @@ int menu() {
 	if (nom_sng.compare("q") == 0)
 		return 0;
 	else if (nom_sng.size() <= 1) {
-		cout << "\nInvlid input, word must be two or more characters long.\n" << endl;
+		cout << "\nInvalid input, word must be two or more characters long.\n" << endl;
 		return menu();
 	}
 
