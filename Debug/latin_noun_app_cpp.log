@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\ryanr\source\repos\latin_noun_app_cpp\main.cpp(29,34): warning C4101: 'e': unreferenced local variable
+  latin_noun_app_cpp.vcxproj -> C:\Users\ryanr\source\repos\latin_noun_app_cpp\Debug\latin_noun_app_cpp.exe
